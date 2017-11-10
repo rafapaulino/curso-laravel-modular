@@ -1,0 +1,15 @@
+{
+    "name": "rafapaulino/blog",
+    "description": "Teste com o curso de Laravel Modular",
+    "authors": [
+        {
+            "name": "Rafael Paulino",
+            "email": "rafaclasses@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Blog\\": ""
+        }
+    }
+}
